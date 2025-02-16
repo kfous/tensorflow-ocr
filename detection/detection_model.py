@@ -1,0 +1,1 @@
+# Where the code for text detection model will be added

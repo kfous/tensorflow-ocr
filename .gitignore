@@ -8,3 +8,6 @@ __pycache__/
 venv
 .venv
 *.pem
+*.json
+*.jpg
+icdar/train_imgs
